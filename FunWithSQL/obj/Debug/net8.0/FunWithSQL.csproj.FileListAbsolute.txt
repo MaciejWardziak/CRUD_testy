@@ -1,0 +1,76 @@
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfoInputs.cache
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfo.cs
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.CoreCompileInputs.cache
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.exe
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.deps.json
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.runtimeconfig.json
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.pdb
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\refint\FunWithSQL.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.pdb
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.genruntimeconfig.cache
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\ref\FunWithSQL.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.AssemblyReference.cache
+C:\Users\st507\Desktop\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.Up2Date
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\FunWithSQL.exe
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\FunWithSQL.deps.json
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\FunWithSQL.runtimeconfig.json
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\FunWithSQL.pdb
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.Up2Date
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\refint\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.pdb
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\FunWithSQL.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Pulpit\Visual Studio\FunWithSQL\obj\Debug\net8.0\ref\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.exe
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.deps.json
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.runtimeconfig.json
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\FunWithSQL.pdb
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.csproj.Up2Date
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\refint\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.pdb
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\FunWithSQL.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\obj\Debug\net8.0\ref\FunWithSQL.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\Moq.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\macie\OneDrive\Pulpit\MW\FunWithSQL\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
