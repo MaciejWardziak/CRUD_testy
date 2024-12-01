@@ -1,0 +1,1 @@
+Nie wiem czy tak to miało wyglądać, ale wydaje mi się, że ze 30% kodu powinno być testowalne ale nie wiem jak sprawdzić ile % jest dokładnie. Szło dosyć ciężko i musiałem sobie co nieco pomagać internetem ale nawet przy tym przy okazji czegoś się uczyłem więc nie jest źle.
